@@ -179,3 +179,7 @@ A basic speech recognition system using an embedded board successfully demonstra
 can control devices efficiently. The project integrates speech processing, embedded programming, and device control,
 making it highly relevant for IoT and smart automation applications.
 
+19.OUTPUT
+
+https://github.com/Saikumar778542/Speech-Recognition-System-Command-Based-Device-Control-/blob/main/speech%20recognition%20system%20output.mp4
+
